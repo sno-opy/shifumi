@@ -1,0 +1,66 @@
+.shifumi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+
+}
+.shifumi > * {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+}
+
+.shifumi-game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.player {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button img {
+    width: 130px;
+    padding-left: 10px;
+}
+
+#result {
+    font-size: 2em;
+    margin: 20px;
+}
+
+#image-result {
+    width: 250px;
+}
+
+.player > p {
+    font-size: 1.5em;
+}
+
+.gif {
+    width: 50%;
+}
