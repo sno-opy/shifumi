@@ -57,10 +57,6 @@ const ShifumiGame = ({ setBgColor }) => {
             setBgColor('rgb(38, 158, 38)')
             setShowUserConfetti(true)
             setShowLoserComputerGif(true)
-            // setTimeout(() => {
-            //     setShowUserConfetti(false)
-            //     setShowLoserComputerGif(false)
-            // }, 3000)
         }
         else {
             setResult('You lost...')

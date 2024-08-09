@@ -2,16 +2,15 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    /* justify-content: center; */
     align-items: center;
     width: 100%;
 
 }
-.shifumi > * {
+
+.shifumi>* {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    /* justify-content: center; */
     align-items: center;
     width: 100%;
 }
@@ -57,7 +56,7 @@ button img {
     width: 250px;
 }
 
-.player > p {
+.player>p {
     font-size: 1.5em;
 }
 
