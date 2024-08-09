@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shifumi/static/css/main.bebd0c1d.css",
+    "main.js": "/shifumi/static/js/main.9e716883.js",
+    "static/js/453.d85a0f69.chunk.js": "/shifumi/static/js/453.d85a0f69.chunk.js",
+    "static/media/confetti.gif": "/shifumi/static/media/confetti.0674ba546c6754da074c.gif",
+    "static/media/scissors.png": "/shifumi/static/media/scissors.a723a4ddec4cc8620863.png",
+    "static/media/loser.gif": "/shifumi/static/media/loser.5ab10e5c3a7c4a8ab0db.gif",
+    "static/media/grimacing_face.png": "/shifumi/static/media/grimacing_face.26c7eda3fa9acb9cf55c.png",
+    "static/media/paper.png": "/shifumi/static/media/paper.fa6c6a3d278ed841aa25.png",
+    "static/media/rock.png": "/shifumi/static/media/rock.59910d995c1ced011cec.png",
+    "index.html": "/shifumi/index.html",
+    "main.bebd0c1d.css.map": "/shifumi/static/css/main.bebd0c1d.css.map",
+    "main.9e716883.js.map": "/shifumi/static/js/main.9e716883.js.map",
+    "453.d85a0f69.chunk.js.map": "/shifumi/static/js/453.d85a0f69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebd0c1d.css",
+    "static/js/main.9e716883.js"
+  ]
+}
