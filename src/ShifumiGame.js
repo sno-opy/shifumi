@@ -41,8 +41,6 @@ const ShifumiGame = ({ setBgColor }) => {
         setShowComputerConfetti(false)
         setShowLoserUserGif(false)
         setShowLoserComputerGif(false)
-        console.log('user ', user)
-        console.log('computer', computer)
         if (user === computer) {
             setResult("It's a tie !")
             setBgColor('grey')
